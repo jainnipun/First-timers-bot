@@ -1,4 +1,4 @@
 # First-timers-bot
 
 I am the first time contributor.
-I wish to contribute to the same.
+I will be contributing to the same.
